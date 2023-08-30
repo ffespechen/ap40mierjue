@@ -5,6 +5,12 @@ h1 {
 }
 
 
+h2 {
+    background-color: #7e0633;
+    font-style: italic;
+}
+
+
 h3 {
     font-style: oblique;
     color: blue;
